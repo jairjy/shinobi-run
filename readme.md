@@ -60,10 +60,6 @@ Open http://127.0.0.1:8080 using your preferred broswer
 #### Prerequisites
 Web browser like Chrome, Mozilla or similar.
 
-
-### Github Repo
-https://github.com/geraldgsh/shinobi-run
-
 ### Future enhancement
 
 1. Leaderboard with highest scores and player name.
@@ -75,14 +71,6 @@ https://github.com/geraldgsh/shinobi-run
 7. Unit testing for the game
 
 and many more.....
-
-👤 **Author**
-
-Github: [geraldgsh](https://github.com/geraldgsh)
-
-Twitter: [geraldgsh](https://github.com/geraldgsh)
-
-Linkedin: [Gerald Goh](https://www.linkedin.com/geraldgsh)
 
 ## 🤝 Contributing
 Contributions, issues and feature requests are welcome!
